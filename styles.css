@@ -1,0 +1,827 @@
+.zagolovok {
+    position: absolute;
+        width: 145px;
+        height: 31px;
+        left: 215px;
+        top: 24px;
+        
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        /* identical to box height */
+        
+        letter-spacing: 0.03em;
+        
+        color: #2196FF;
+    }
+    .zagolovok2 {
+        position: absolute;
+        width: 145px;
+        height: 31px;
+        left: 274px;
+        top: 24px;
+        
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        /* identical to box height */
+        
+        letter-spacing: 0.03em;
+        
+        color: black;
+        
+    }
+    .Studio {
+        position: absolute;
+        width: 49px;
+        height: 16px;
+        left: 453px;
+        top: 32px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        
+        color: black;
+        
+    
+    }
+    .Portpholio {
+        position: absolute;
+        width: 77px;
+        height: 16px;
+        left: 552px;
+        top: 32px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        
+        color: black;
+        
+    }
+    .Portpholio:visited {
+        color: #2196FF;
+    }
+    .Contacts6 {
+        position: absolute;
+        width: 68px;
+        height: 16px;
+        left: 679px;
+        top: 20px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        
+        color: black;
+        
+    }
+    .mail {
+        position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 850px;
+    top: 34px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: black;
+    
+    }
+    .tel {
+        position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1050px;
+    top: 34px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: black;
+    
+    
+    }
+    /* Всё */
+.vse {
+    position: absolute;
+width: 20px;
+height: 26px;
+left: 517px;
+top: 150px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: white;
+position: absolute;
+width: 73px;
+height: 38px;
+left: 495px;
+top: 174px;
+
+background: #2196F3;
+/* shadow-middle */
+
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+
+}
+.Website {
+    position: absolute;
+width: 84px;
+height: 26px;
+left: 598px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+.app {
+    position: absolute;
+width: 101px;
+height: 26px;
+left: 734px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+.Design {
+    position: absolute;
+width: 59px;
+height: 26px;
+left: 887px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: black;
+
+}
+.Marketing {
+    position: absolute;
+width: 86px;
+height: 26px;
+left: 998px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+.photo {
+    
+position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 262px;
+
+}
+.photo2 {
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 262px;
+
+}
+.photo3 {
+    
+position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 262px;
+
+}
+.photo4 {
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 696px;
+
+}
+.photo5 {
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 696px;
+
+}
+.photo6 {
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 696px;
+}
+.photo7 {
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 1130px;
+}
+.photo8 {
+    
+position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 1130px;
+
+}
+.photo9 {
+    
+position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 1130px;
+}
+.Texno {
+    position: absolute;
+    width: 322px;
+    height: 36px;
+    left: 239px;
+    top: 576px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    /* identical to box height, or 200% */
+    
+    letter-spacing: 0.06em;
+    
+    color: #212121;
+    
+}
+.Web {
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+.poster {
+    position: absolute;
+width: 320px;
+height: 36px;
+left: 639px;
+top: 576px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.Design5 {
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+.Seaf {
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 576px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.apps {
+    /* Приложение */
+
+
+position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575
+}
+.app1 {
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.marketing1 {
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+.Boxes {
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.app2 {
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+.Borders {
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.Web2 {
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: 1039px;
+    top: 1050px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+}
+.le {
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.Design2 {
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+.LAB {
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.marketing2 {
+    position: absolute;
+    width: 322px;
+    height: 30px;
+    left: 639px;
+    top: 1484px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;    
+}
+.Business {
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.app3 {
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+.vector {
+    position: absolute;
+left: 550px;
+right: 200px;
+top: 210px;
+bottom: 0%;
+}
+.footer {
+    /* WebStudio */
+
+
+position: absolute;
+width: 145px;
+height: 31px;
+left: 300px;
+top: 1570px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+
+}
+.maps {
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 300px;
+top: 1700px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: black;
+
+}
+.mail2 {
+    /* info@example.com */
+
+
+position: absolute;
+width: 231px;
+height: 21px;
+left: 300px;
+top: 1650px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: black;
+
+}
+.tel2 {
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 300px;
+top: 1750px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: black;
+
+}
+.ssylka {
+    position: absolute;
+    color: gray;
+}
+.ssylka:hover {
+    color: #2196FF;
+}
+.ssylka:focus {
+    color: #2196FF;
+}
+.ssylka2 {
+    color: black;
+}
+.ssylka2:hover{
+    color: #2196FF;
+}
+.ssylka2:focus {
+    color: #2196FF;
+}
+.bg {
+    position: absolute;
+    left: -300px;
+   height: 300px;
+    width: 1700px;
+    top: 1550px;
+}
+a {
+    text-decoration: none;
+}
+.insta4 {
+    /* ========================insta_click======================== */
+
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 550px;
+top: 1650px;
+
+}
+ /* ========================twitter======================== */
+.twitter_click4 {
+    
+position: absolute;
+width: 40px;
+height: 40px;
+left: 655px;
+top: 1650px;
+}
+ /* ========================facebook======================== */
+.facebook4 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 600px;
+    top: 1650px;
+}
+/* ========================in======================== */
+.in4 {
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 710px;
+top: 1650px;
+}
+.final {
+    /* присоединяйтесь */
+
+
+position: absolute;
+width: 145px;
+height: 16px;
+left: 550px;
+top: 1600px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
